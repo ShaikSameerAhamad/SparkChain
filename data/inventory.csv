@@ -1,0 +1,10 @@
+LocationName,ProductID,ProductName,StockLevel,ReorderThreshold
+Gachibowli Supercenter,PROD101,Parle-G Biscuit,250,50
+Gachibowli Supercenter,PROD102,Tata Salt,180,50
+Gachibowli Supercenter,PROD103,Amul Butter,45,20
+Secunderabad Store,PROD101,Parle-G Biscuit,310,60
+Secunderabad Store,PROD102,Tata Salt,90,60
+Secunderabad Store,PROD103,Amul Butter,80,25
+Miyapur Warehouse,PROD101,Parle-G Biscuit,5000,1000
+Miyapur Warehouse,PROD102,Tata Salt,8500,1500
+Miyapur Warehouse,PROD103,Amul Butter,2200,500
